@@ -22,6 +22,9 @@ terminus-font
 dejavu-fonts-ttf 
 alsa-plugins-pulseaudio
 
+#Wifi drivers
+b43-fwcutter 
+
 
 #USERLAND PACKAGES
 gptfdisk
@@ -51,15 +54,11 @@ vdpauinfo
 pipewire
 gstreamer1-pipewire
 upower
-flatpak
-gnome-terminal
 alsa-utils
 pavucontrol
 xterm
 htop
-topgrade
 ntp
-octoxbps
 void-repo-multilib
 gvfs-afc 
 gvfs-mtp 
@@ -68,5 +67,10 @@ udisks2
 ntfs-3g
 gnome-keyring
 network-manager-applet
-falkon
 adwaita-icon-theme
+
+#Personal extra útil
+
+fuzzypkg 
+vpm
+xmirror
